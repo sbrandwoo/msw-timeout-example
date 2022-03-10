@@ -1,0 +1,14 @@
+{
+  "name": "msw-timeout",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Stephen Brandwood",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/preset-env": "^7.16.11",
+    "axios": "^0.26.1",
+    "babel": "^6.23.0",
+    "jest": "^27.5.1",
+    "msw": "^0.39.1"
+  }
+}
